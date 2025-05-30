@@ -196,7 +196,7 @@ export default function Hero() {
 
           {/* Frase motivacional */}
           <div className="bg-gradient-to-r from-purple-600 via-pink-500 to-yellow-400 p-[3px] rounded-2xl shadow-xl">
-            <div className="bg-black/70 rounded-2xl px-8 py-10 text-xl sm:text-3xl text-gray-200 italic">
+            <div className="bg-black/70 rounded-2xl px-8 py-10 text-xl sm:text-3xl text-white italic">
               "Cuando el alumno no entiende, el problema no siempre está en el
               alumno."
             </div>
