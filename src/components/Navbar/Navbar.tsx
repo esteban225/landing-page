@@ -16,7 +16,7 @@ const Navbar: React.FC = () => (
             left: 0,
             width: "100%",
             zIndex: 100,
-            boxShadow: "0 2px 8px rgba(0,0,0,0.05)",
+            boxShadow: "2px 4px 16px rgba(0,0,0,0.3)",
         }}
     >
         <div

@@ -45,7 +45,7 @@ const Contact = () => {
   return (
     <section
       ref={contactRef}
-      className="bg-gray-100 py-16 px-6 md:px-20 text-gray-800"
+      className="bg-white py-16 px-6 md:px-20 text-gray-800"
     >
       <div className="max-w-4xl mx-auto space-y-10">
         <h2 className="text-4xl font-bold text-center contact-animate">
@@ -62,13 +62,13 @@ const Contact = () => {
             </p>
             <div>
               <p>
-                <strong>Email:</strong> educacion@ejemplo.com
+                <strong>Email:</strong> educacion@gmail.com
               </p>
               <p>
-                <strong>Teléfono:</strong> +34 123 456 789
+                <strong>Teléfono:</strong> +37 000 000 0000
               </p>
               <p>
-                <strong>Dirección:</strong> Calle de la Educación, 123 - Madrid
+                <strong>Dirección:</strong> Calle a la mejor Educación
               </p>
             </div>
           </div>
